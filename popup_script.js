@@ -1,1 +1,1 @@
-Alert("xss");
+var pop = Alert("xss");
