@@ -1,4 +1,4 @@
 if(1<2){
-  Alert("xss");
+ var tet =  Alert("xss");
   concole.log("hit")
 }
