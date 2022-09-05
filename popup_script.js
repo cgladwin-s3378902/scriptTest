@@ -1,4 +1,4 @@
 function run(){
-Alert("xss");
+return Alert("xss");
 console.log("hit")
 }
