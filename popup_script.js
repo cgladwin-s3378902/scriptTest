@@ -1,3 +1,5 @@
 <script>
-Alert("xss");
+if(1<2){
+  Alert("xss");
+}
 </script>
