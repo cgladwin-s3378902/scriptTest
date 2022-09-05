@@ -1,4 +1,3 @@
-function run(){
-return Alert("xss");
-console.log("hit");
+window.onload=function(){
+    alert('xss');
 }
